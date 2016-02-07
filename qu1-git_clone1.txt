@@ -1,1 +1,1 @@
-Explain what git clone does
+"git clone" creates a clone (a copy) of a repository on your own computer from a copy that is stored online, or another server. This allows you to make changes and keep track of them locally. Changes can be synced when ready when remote is set up and by using push command.
