@@ -1,0 +1,1 @@
+Branching is like a parallel timeline, a parallel version. Modifications can be made and it will not affect the work of the master branch. These modifcations can later be merged.
