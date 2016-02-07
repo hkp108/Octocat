@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for
+The upstream remote is the origin master branch on the original repo that you may have forked. When upstream is added, it allows git to keep up to date with developments in the original repo while you working on the forked/local copy.
